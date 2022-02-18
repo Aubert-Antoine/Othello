@@ -1,14 +1,12 @@
-# Othello
-Othello game with IA player
-Project for "IA and game" unit
+#Othello/README.md
+Game Othello with IA player.
+Project for the unit "IA and game"
 
-use librairy:
-  - tkinter
-  - numpy
-  - numba
+Library of use: 
+  TKinter 
+  NUMPY 
+  NUMBA
   
-make in pairs with Benoit Marchadier
-
-
+Made in pairs with Benoit Marchadier
 
 Antoine Aubert
