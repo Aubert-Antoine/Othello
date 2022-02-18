@@ -1,5 +1,6 @@
 #Othello/README.md
-Game Othello with IA player.
+
+Game Othello with IA player in Python.
 Project for the unit "IA and game"
 
 Library of use: 
